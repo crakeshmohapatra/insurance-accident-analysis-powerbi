@@ -32,3 +32,6 @@ Maximum accidents occur in summer.
 Cars accounts for the highest accident share.
 <br>
 High-risk locations include Highways.
+<br>
+Raw Data: [insurancedata.xlsx](https://github.com/user-attachments/files/22059950/insurancedata.xlsx)
+<br>
